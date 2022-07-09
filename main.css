@@ -1,0 +1,13 @@
+#sample {
+    width: 600px;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+#sample img {
+    height: 100%;
+}
+.horizontalScroll {
+    overflow-y: hidden;
+}
